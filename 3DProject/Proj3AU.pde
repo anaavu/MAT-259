@@ -1,9 +1,9 @@
 
 
 /**************************************************************************************************************************
- * Li Zheng work in 2014, m259 data visualization course                                                                  *
- * 2018 additions by George Legrady  
- * 2019 changes by Anagha Uppal
+ * m259 data visualization course
+ * Based on Li Zheng's work in 2014, Anagha Uppal (2019)
+ * 
  *                                                                                                                        *
  * A 3D interactive demo that uses peasycam, updated in Processing 3.4 - February 20, 2019                               *
  *                                                                                                                        *
